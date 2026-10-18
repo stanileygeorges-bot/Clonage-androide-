@@ -1,0 +1,6 @@
+{
+  "name": "Clonage",
+  "description": "Fitaovana Android roa mahaleo tena ao anaty finday iray - Dual independent phone simulator & clone space.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
